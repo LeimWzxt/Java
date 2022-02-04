@@ -1,0 +1,13 @@
+You can upload a image from you pc or a link and do the following actions to modify your image:
+- Trimmed
+- Negative
+- Strech Horizontally
+- Shrink Vertically
+- Invert Image
+- Apply color filter
+- Scale up 
+
+Also, you can create and empty canvas and do the following:
+- Paint random pixel colors
+- Draw a rectangle
+- Draw random rectangles

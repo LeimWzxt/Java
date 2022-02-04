@@ -1,0 +1,1 @@
+Calculate the area from a circle, triangle and rectangle.

@@ -1,0 +1,1 @@
+This code allows you to practice with arrays.

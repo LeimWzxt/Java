@@ -1,0 +1,1 @@
+This code Sort articles by its rating and show you the article with the highest rating.

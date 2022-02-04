@@ -1,0 +1,5 @@
+A protein has the following qualities:
+
+1. It begins with a “start codon”: `ATG`.
+2. It ends with a “stop codon”: `TGA`.
+3. In between, each additional codon is a sequence of three nucleotides.
