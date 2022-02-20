@@ -1,0 +1,6 @@
+This code allow us to create entreis for new places visited, edit them and delete them.
+
+This project has the following files:
+- AdventureController.java: this code has the functions with you can create, delete or modify adventures with the curl command in Bash
+- Adventure.java: this file has the Adventure class and with it you can interact with the sql file and with Adventure objects and their properties.
+- data.sql: this file has the data in SQL format
